@@ -3,7 +3,7 @@
 UUID=${UUID:-'062355d0-bbb2-4f2c-afd5-c31f2f9a86c8'}
 VMESS_WSPATH=${VMESS_WSPATH:-'/062355d0-bbb2-4f2c-afd5-c31f2f9a86c8-vmess'}
 VLESS_WSPATH=${VLESS_WSPATH:-'/062355d0-bbb2-4f2c-afd5-c31f2f9a86c8-vless'}
-TROJAN_WSPATH=${TROJAN_WSPATH:-'062355d0-bbb2-4f2c-afd5-c31f2f9a86c8-/trojan'}
+TROJAN_WSPATH=${TROJAN_WSPATH:-'/062355d0-bbb2-4f2c-afd5-c31f2f9a86c8-/trojan'}
 SS_WSPATH=${SS_WSPATH:-'/062355d0-bbb2-4f2c-afd5-c31f2f9a86c8-shadowsocks'}
 
 generate_config() {
